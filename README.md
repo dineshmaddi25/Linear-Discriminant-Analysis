@@ -1,7 +1,9 @@
 
 
 ##### Linear Discriminant Analysis (LDA) for Wine Dataset
-    This project focuses on applying Linear Discriminant Analysis (LDA) to the Wine dataset. It involves clustering visualization and evaluating the accuracy using various classifiers such as Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Gaussian Naive Bayes, Decision Tree, and Random Forest Classifier. Cohen's Kappa is utilized to measure the exactness in accuracy.
+This project focuses on applying Linear Discriminant Analysis (LDA) to the Wine dataset. 
+It involves clustering visualization and evaluating the accuracy using various classifiers such as Logistic Regression, 
+K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Gaussian Naive Bayes, Decision Tree, and Random Forest Classifier. Cohen's Kappa is utilized to measure the exactness in accuracy.
 
 #### Requirements
 numpy (import numpy as np)
